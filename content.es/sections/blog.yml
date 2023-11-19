@@ -1,0 +1,19 @@
+anchor: 'Suficientismo: Blog sobre sostenibilidad, auto-consumo, etc.'
+subtitle: Blog sobre sostenibilidad, auto-consumo, etc.
+size: md
+more:
+  padding_top: 0
+  padding_bottom: 0
+rows:
+- type: articles
+  kind: blog
+- type: contact
+  data:
+  - type: address
+    name: ''
+    streetAddress: Ronda de Levante, 1
+    postalCode: 30008
+    addressLocality: Murcia
+    addressRegion: Murcia
+    addressCountry: España
+    coordinates: '{"type":"Point","coordinates":[-1.1292333,37.9923390]}'

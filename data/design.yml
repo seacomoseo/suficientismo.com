@@ -1,0 +1,71 @@
+icons:
+  type: solid
+  emojis: ''
+  emojis_default: false
+fonts:
+  google: false
+  base:
+    family: Lato
+    weight: 300
+    strong: 0
+    italic: false
+    line-height: 1.25
+  cursive:
+    family: Lato
+    weight: 300
+    strong: 0
+    italic: false
+    line-height: 1.25
+    top: 0
+  title:
+    family: Lora
+    weight: 700
+    strong: 0
+    italic: false
+    line-height: 1.25
+    top: 0
+  blockquote_cursive: false
+colors:
+  main:
+    color: '#ffa432'
+    light: '#fff'
+    dark: '#fff'
+    contrast: text
+  alt:
+    color: '#fff'
+    light: '#fff'
+    dark: '#fff'
+    contrast: all
+  link:
+    color: '#55AC69'
+    light: '#fff'
+    dark: '#fff'
+    contrast: text
+  base:
+    white: '#fff'
+    light: '#eee'
+    grey: '#767676'
+    dark: '#282525'
+    black: '#000'
+rounded:
+  radius: .33
+  chamfer: false
+buttons:
+  sides_round: true
+  icon_circle: false
+  deep: false
+  outline: false
+  font_base: false
+shadow:
+  left: 0.15
+  top: 0.15
+  blur: 0
+  color: black
+  opacity: 0.15
+lightbox_overlay:
+  opacity: 0.8
+  color: black
+performance:
+  showup: true
+  parallax: true
+  srcsetx2: true

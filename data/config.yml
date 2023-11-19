@@ -1,0 +1,43 @@
+title: Suficientismo
+description: Este blog proporciona ideas para ahorrar, para vivir de forma sostenible, autosuficiente, auto-abastercese y ser más feliz.
+logo: logo.svg
+legal_name: Suficientismo
+legal_dni: ''
+legal_email: suficientismo@gmail.com
+legal_location: ''
+country: España
+location_type:
+- ''
+- Organization
+alternate_name: []
+price_range: ''
+google_analytics: G-810G230JHK
+google_site_verification: EEw_QNU_nGs2vjqVP5Q7Jj-bgWhgHcD5bcNf1MZzA_A
+google_file_verification: google7467d923cbb3eb4c.html
+disqus: suficientismo
+cookies_legal: false
+analytics_pagespeed: true
+process_all_images: false
+cms: true
+cms_editorial_workflow: false
+development: false
+custom_code:
+  html_head:
+    code: |
+      <script defer src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <script>
+        (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: 'ca-pub-7914952536979255',
+          enable_page_level_ads: true
+        });
+      </script>
+  html_body:
+    code: ''
+    lang: html
+  css:
+    code: ''
+  js:
+    code: ''
+    lang: javascript
+social: []
+

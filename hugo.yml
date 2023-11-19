@@ -1,0 +1,32 @@
+baseURL: https://suficientismo.com
+Paginate: 24
+buildFuture: false
+theme: [sansoul]
+params:
+  git_url: https://gitlab.com/suficientismo/suficientismo.com
+  netlify_name: suficientismo
+  netlify_id: c68e19de-b566-40c3-96ac-0e5884121e3f
+  drive_link: https://drive.google.com/file/d/1-iLq2AXovQTRf8yPm4Vrn_VRw2W7jGp2
+  drive_mails: ''
+defaultContentLanguage: es
+disableLanguages: [en]
+languages:
+  es:
+    paginatePath: pagina
+    permalinks:
+      page:
+        pages: :slug
+        blog: :slug
+        events: evento/:year/:month/:day/:slug
+        products: producto/:slug
+        categories: categoria/:slug
+        tags: etiqueta/:slug
+        authors: autor/:slug
+      section:
+        pages: paginas
+        blog: blog
+        events: eventos
+        products: productos
+        categories: categorias
+        tags: etiquetas
+        authors: autores
