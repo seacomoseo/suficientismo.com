@@ -1,4 +1,4 @@
-baseURL: https://suficientismo.netlify.app/
+baseURL: https://suficientismo.netlify.app
 Paginate: 24
 buildFuture: false
 theme: [sansoul]
