@@ -1,4 +1,4 @@
-baseURL: https://suficientismo.com
+baseURL: https://suficientismo.netlify.app/
 Paginate: 24
 buildFuture: false
 theme: [sansoul]
@@ -10,7 +10,7 @@ params:
   drive_link: https://drive.google.com/file/d/1-iLq2AXovQTRf8yPm4Vrn_VRw2W7jGp2
   drive_mails: ''
 defaultContentLanguage: es
-disableLanguages: [en]
+disableLanguages: [en,fr]
 languages:
   es:
     paginatePath: pagina
